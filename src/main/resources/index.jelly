@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin provides <a href="https://github.com/micrometer-metrics/micrometer">Micrometer Core </a> (v${revision}) for other plugins.
+</div>
