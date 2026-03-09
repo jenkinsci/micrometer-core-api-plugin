@@ -1,6 +1,6 @@
 # Micrometer Core API Plugin
 
-This plugin exposes the [Micromete] Facade (https://micrometer.io/) API to Jenkins plugins.
+This plugin exposes the [Micrometer](https://micrometer.io/) API to Jenkins plugins.
 
 ## Changelog
 
